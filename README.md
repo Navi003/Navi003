@@ -1,9 +1,9 @@
+
+[![MasterHead](https://res.cloudinary.com/navi003/image/upload/v1703700070/banner_qe8efv.jpg)](http://www.navjot.at)
 <h1 align="center">Hi 👋, I'm Navjot</h1>
 <h3 align="center">A passionate Fullstack developer from Austria</h3>
 
-[![MasterHead](<img align="right" width="400" src="https://res.cloudinary.com/navi003/image/upload/v1703700070/banner_qe8efv.jpg" />)](http://www.navjot.at)
-
-<img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.mp4?cid=ecf05e473bvgifus9285o2nshy08c4aomlagfk5cuycsysbn&ep=v1_gifs_search&rid=giphy.mp4&ct=g" />
+<img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.mp4cid=ecf05e473bvgifus9285o2nshy08c4aomlagfk5cuycsysbn&ep=v1_gifs_search&rid=giphy.mp4&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navi003&label=Profile%20views&color=0e75b6&style=flat" alt="navi003" /> </p>
 
